@@ -1,0 +1,13 @@
+.text-width {
+    width: 30rem;
+}
+
+@media only screen and (max-width: 556px) {
+    .txt-center {
+        text-align: center;
+    }
+
+    .head-center {
+        margin: auto;
+    }
+}
